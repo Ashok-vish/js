@@ -1,0 +1,25 @@
+.full{
+    background-color: rgb(227, 237, 241);
+}
+
+.button {
+    background-color: #b7f3f3;
+    font-size:15px;
+    width:72px;
+    height:42px;
+    border-width:1px;
+    border-radius: 6px;
+    
+}
+
+.button:hover{
+    background-color:#5ce2e2;
+}
+
+.result{
+    background-color: #b7f3f3;
+    height: 60px;
+    width:300px;
+    border-radius: 6px;
+
+}
